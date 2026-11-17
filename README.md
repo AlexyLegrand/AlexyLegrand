@@ -4,9 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/alexy-legrand-125889232//"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alexy-legrand-125889232/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:alexy.legrand@epitech.eu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://devshowcase-five.vercel.app"><img src="https://img.shields.io/badge/DevShowcase-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -30,14 +29,3 @@
 | **R-Type 3D VR** | 3D / VR remake of the classic shoot 'em up — I worked on the UI and menus | C++, Figma |
 | **Diorama** | 3D puzzle game inspired by Captain Toad: Treasure Tracker | C, raylib |
 | **SPHEREx Explorer** | NASA Space Apps 2026 — web tool to explore SPHEREx images | Web |
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexyLegrand&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexyLegrand&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexyLegrand&theme=tokyonight&hide_border=true" />
-</p>

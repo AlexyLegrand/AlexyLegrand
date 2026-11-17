@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alexy 👋</h1>
 <p align="center">
-  3rd-year student at <b>Epitech Toulouse</b> · Full-stack & systems developer · Space & aerospace enthusiast 🚀
+  3rd-year student at <b>Epitech Toulouse</b> ·  IA & Full-stack & systems developer
 </p>
 
 <p align="center">

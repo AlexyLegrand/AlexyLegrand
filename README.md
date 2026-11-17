@@ -27,5 +27,5 @@
 | Project | Description | Stack |
 |---|---|---|
 | **R-Type 3D VR** | 3D / VR remake of the classic shoot 'em up — I worked on the UI and menus | C++, Figma |
-| **Diorama** | 3D puzzle game inspired by Captain Toad: Treasure Tracker | C, raylib |
+| [**Diorama**] (https://github.com/AlexyLegrand/Diorama) | 3D puzzle game inspired by Captain Toad: Treasure Tracker | C, raylib |
 | **SPHEREx Explorer** | NASA Space Apps 2026 — web tool to explore SPHEREx images | Web |

@@ -20,7 +20,7 @@
 ### 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,react,nextjs,tailwind,nodejs,linux,ubuntu,git,github,vercel,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,linux,ubuntu,git,github,figma&perline=8" />
 </p>
 
 ### 🚀 Featured projects
